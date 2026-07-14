@@ -192,7 +192,8 @@ def bank_menu(username):
                     break
 #LOGOUT
         elif choice==6:
-            return f"THANK FOR BANKING WITH US!"
+                print(f"THANK FOR BANKING WITH US!")
+                return 
         else:
             print("choose num from 1-6")
             continue
