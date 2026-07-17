@@ -42,7 +42,7 @@ A command-line ATM simulator handling core banking actions.
 
 ---
 
-## Task 4 Overview
+## Task 4:HR Records System Overview
 
 An HR records system for handling structured employee data.
 
@@ -52,7 +52,7 @@ An HR records system for handling structured employee data.
 
 ---
 
-## Task 5 Overview
+## Task 5:Bank Account Manager Overview
 
 An object-oriented bank account management system.
 
@@ -62,20 +62,6 @@ An object-oriented bank account management system.
 
 ---
 
-## Skills Practiced
-
-- Variables
-- User Input
-- Data Types
-- Dictionaries
-- if / elif / else
-- Logical Operators
-- Functions
-- Parameters and Return Statements
-- Loops
-- Input Validation
-- Object-Oriented Programming (classes, `__init__`, encapsulation)
-- Clean Code Practices
 
 ## What's Next
 
